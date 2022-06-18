@@ -1,5 +1,5 @@
 👩‍💻 - Eu me chamo Thamara Lillian;
-💜 - Atualmente sou Coordenadora de R&Sna Kaptas;
+💜 - Atualmente sou Coordenadora de R&S na Kaptas;
 🦄 - A Kaptas é uma consultoria que acredita na captação de talentos para elevar o nível de contratação global! 
 💸 - Constantemente temos vagas para:
 Analista de Testes; Analista de Automação; Desenvolvedor Java; Desenvolvedor Android 
