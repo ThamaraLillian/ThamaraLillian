@@ -1,9 +1,9 @@
 👩‍💻 - Eu me chamo Thamara Lillian;
-💜 - Atualmente sou Coordenadora de R&S na Kaptas;
-🦄 - A Kaptas é uma consultoria que acredita na captação de talentos para elevar o nível de contratação global! 
+💜 - Atualmente sou da área de RH Generalista na Avanz;
+🦄 - A Avanz atua com tecnologia, consultoria e desenvolvimento de software, qualquer que seja o seu segmento. 
 💸 - Constantemente temos vagas para:
-Analista de Testes; Analista de Automação; Desenvolvedor Java; Desenvolvedor Android 
-Se alguma fez sentido pra você, da uma olhada na nossa página de carreiras.
+Desenvolvedor PHP; Desenvolvedor .Net; Analista de Testes; Analista de Automação; Desenvolvedor Java; Desenvolvedor Android 
+Se alguma fez sentido pra você, da uma olhada na nossa página de carreiras: https://avanz.com.br/trabalhe-conosco
 
 <!---
 ThamaraLillian/ThamaraLillian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
